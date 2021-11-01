@@ -5,7 +5,7 @@
 - ¿Por qué?
         Todo el trabajo realizado pibota sobre varias hipótesis que hemos definido:
         
-              1. Los  los ataques que se han provocado más, han sido pescando --> ¡Confirmamos!
+              1. Los ataques que se han provocado más, han sido pescando --> ¡Confirmamos!
               
               2. Los ataques que más acaban en muerte son los de los surfistas --> Refutamos
              
