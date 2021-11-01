@@ -9,7 +9,7 @@
               
               2. Los ataques que más acaban en muerte son los de los surfistas --> Refutamos
              
-              3. En australia hay más ataques que en el resto del mundo porque el agua está más caliente, sobre todo en diciembre porque hay más turistas en navidad -->                       Refutamos
+              3. En australia hay más ataques que en el resto del mundo porque el agua está más caliente, sobre todo en diciembre porque hay más turistas en navidad --> Refutamos
 
 - ¿Qué contiene?
         El repositorio contiene dos jupyter notebook con la limpieza y visualización de datos, así como un agregado de todas las funciones que hemos usado
